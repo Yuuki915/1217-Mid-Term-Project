@@ -405,11 +405,6 @@ main {
   width: 20%;
   margin: auto 0;
 }
-footer .logo {
-  color: #fff;
-  margin: auto 0;
-  font-size: 20px;
-}
 .f-menu ul li {
   color: #fff;
   padding: 0.25rem;
@@ -434,7 +429,7 @@ footer .logo {
   #menu li a:hover {
     color: #4494a6;
   }
-  .logo-img {
+  .navbar .logo-img {
     display: none;
   }
   #humberger {
@@ -675,5 +670,17 @@ footer .logo {
 
   #activities {
     padding: 6rem 0 0;
+  }
+
+  .f-menu {
+    display: block;
+  }
+  .f-menu .logo-img {
+    width: 30%;
+    margin: 1rem auto;
+  }
+  .f-menu ul li {
+    margin: 0 auto;
+    text-align: center;
   }
 }
