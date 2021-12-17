@@ -30,9 +30,7 @@ p {
 /* header */
 .navbar {
   z-index: 999;
-  position: fixed;
-  top: 0;
-  width: 100vw;
+  position: relative;
 }
 .navbar .logo-img {
   position: absolute;
