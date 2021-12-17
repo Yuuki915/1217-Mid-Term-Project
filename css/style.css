@@ -103,7 +103,7 @@ p {
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: #fbf9f700;
-  filter: drop-shadow(3px 3px 5px #999);
+  filter: drop-shadow(3px 3px 5px #333);
 }
 
 @keyframes lname-anime {
